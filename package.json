@@ -1,0 +1,37 @@
+{
+    "author": "@niazangels",
+    "dependencies": {},
+    "keywords": [],
+    "name": "radiohead",
+    "pebble": {
+        "displayName": "Radiohead",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "characterRegex": "[0-9:.]",
+                    "file": "fonts/IMAGINE",
+                    "name": "IMAGINE_38",
+                    "targetPlatforms": [
+                        "aplite",
+                        "diorite"
+                    ],
+                    "trackingAdjust": -1,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "diorite"
+        ],
+        "uuid": "60472a4a-0209-465a-ba97-a8307c92279a",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
